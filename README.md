@@ -4,10 +4,11 @@ This is a polling project built entirely on Django framework.
 ## Usage
 1. Create virtual environment
 ```bash
-pip shell
+pipenv shell
 ```
 2. Make migrations
 ```bash
+cd pollster
 python manage.py makemigrations pollster
 python manage.py migrate        // this will migrate all boilerplate table as well as apps table
 ```
@@ -32,6 +33,7 @@ python manage.py runserver 8080
 - [x] View polling question
 - [x] View polling result
 - [x] Voting feature (built, not yet working)
+- [x] Template partials
 
 ## Resources
 - [Django](https://www.djangoproject.com/start/)
