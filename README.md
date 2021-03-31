@@ -34,6 +34,7 @@ python manage.py runserver 8080
 - [x] View polling result
 - [x] Voting feature (built, not yet working)
 - [x] Template partials
+- [x] Landing page
 
 ## Resources
 - [Django](https://www.djangoproject.com/start/)
