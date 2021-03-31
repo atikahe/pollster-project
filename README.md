@@ -27,13 +27,13 @@ python manage.py runserver 8080
 7. From browser, access '/polls/ url to see polling page.
 
 ## To Do
-*[x] Project Setup
-*[x] Admin page feature
-*[x] View polling question
-*[x] View polling result
-*[ ] Voting feature (built, not yet working)
-*[ ] Unit test setup
-*[ ] Deployment
+- [x] Project Setup
+- [x] Admin page feature
+- [x] View polling question
+- [x] View polling result
+- [ ] Voting feature (built, not yet working)
+- [ ] Unit test setup
+- [ ] Deployment
 
 ## Resources
 - [Django](https://www.djangoproject.com/start/)
